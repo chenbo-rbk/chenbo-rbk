@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
+
+I'm [Anushka Verma](https://verma-anushka.github.io/anushkaverma/), I'm an experienced full stack web developer and technical writer a demonstrated history of working in the information technology and services industry.
+
+---
+
+**Currently I am working ...**
